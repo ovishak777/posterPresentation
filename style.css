@@ -7,7 +7,7 @@ body {
 }
 .topbar {
   display: flex;
-  height: 90px;
+  height: 70px;
   padding-left: 1%;
   border-bottom: solid blue;
   align-items: center;
