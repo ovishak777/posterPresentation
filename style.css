@@ -19,10 +19,10 @@ body {
   display: flex;
 }
 .leftbar {
-  width: 20%;
+  width: 30%;
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 25px;
   border-right: solid blueviolet;
   overflow-y: auto;
 }
