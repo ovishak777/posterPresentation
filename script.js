@@ -74,7 +74,7 @@ function showContent(section, btn) {
                   <p>• Incorporate Indigenous Knowledge into national adaptation planning.</p>
 <p>• Strengthen community-based ecosystem management.</p>
 <p>• Promote locally led adaptation initiatives.</p>
-• Improve climate governance through Indigenous participation.</p>
+<p>• Improve climate governance through Indigenous participation.</p>
               `;
   }
   if (section === "Con") {
