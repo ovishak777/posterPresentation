@@ -35,6 +35,7 @@ body {
 button {
   width: 100%;
   padding: 8px;
+  background-color: aliceblue;
 }
 button.active {
   background-color: antiquewhite;
